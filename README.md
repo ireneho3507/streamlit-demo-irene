@@ -13,8 +13,8 @@ Streamlit 元件示範集，從基礎 text/media、輸入 widgets，到 matplotl
 ## Installation
 
 ```bash
-git clone https://github.com/<your-account>/demo_streamlit.git
-cd demo_streamlit
+git clone https://github.com/ireneho3507/streamlit-demo-irene.git
+cd streamlit-demo-irene
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
@@ -113,7 +113,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/<your-account>/<your-repo>.git
+git remote add origin https://github.com/ireneho3507/streamlit-demo-irene.git
 git push -u origin main
 ```
 
